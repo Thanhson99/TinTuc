@@ -1,0 +1,11 @@
+.card-body a.btn.btn-app {
+    margin: 0px 4px;
+}
+
+.status.btn-success i {
+    color: #ffff;
+}
+
+span.hightlight {
+    background: #ffe214;
+}

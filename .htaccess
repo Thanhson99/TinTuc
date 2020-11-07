@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteBase /mvc_tintuc
+RewriteRule ^([-a-zA-Z0-9]+)\.html$ index.php?app=default&controller=index&action=post&slug=$1 [L]
+RewriteRule ^([-a-zA-Z0-9]+)$ index.php?app=default&controller=index&action=category&slug=$1 [L]
+
