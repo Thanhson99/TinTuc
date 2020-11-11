@@ -103,8 +103,8 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `name`, `username`, `email`, `password`, `picture`, `status`, `created_at`, `updated_at`) VALUES
-(3, 'Nguyễn Thanh Phong', 'thanhphongnew', 'vanthanh@gmail.com', '01951edade636dd822c08d3366860219', '1595855555.png', 'active', 1595855555, 1595855598),
-(4, 'Thanh Phong', 'thanhphongnew', 'thanhphonglx98@gmail.com', '01951edade636dd822c08d3366860219', '1596025414.png', 'active', 1596025414, 1596025414);
+(3, 'Vi Thanh Son', 'thanhsonnew', 'doraemon1999kt@gmail.com', '01951edade636dd822c08d3366860219', '1595855555.png', 'active', 1595855555, 1595855598),
+(4, 'Thanh Son', 'thanhsonnew', 'sonvi10101999@gmail.com', '01951edade636dd822c08d3366860219', '1596025414.png', 'active', 1596025414, 1596025414);
 
 --
 -- Chỉ mục cho các bảng đã đổ
